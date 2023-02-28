@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Lucas Vieira</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Oi, meu nome é Lucas.
+\n\nEu odeio peixe.
+\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
+\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.\n\n</string>
+</resources>
